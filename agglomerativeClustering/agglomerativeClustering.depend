@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1616312827 source:c:\users\imperiouspawan\desktop\cpp\agglomerativeclustering1\main.cpp
+	<iostream>
+	"agglomerativeClustering1.h"
+	<Eigen/Dense>
+	<cmath>
+	<vector>
+	<iostream>
+	<fstream>
+
+1616315471 source:c:\users\imperiouspawan\desktop\cpp\agglomerativeclustering1\agglomerativeclustering1.cpp
+	"agglomerativeClustering1.h"
+
+1616315497 c:\users\imperiouspawan\desktop\cpp\agglomerativeclustering1\agglomerativeclustering1.h
+	<string.h>
+	<Eigen/Dense>
+	<cmath>
+	<vector>
+	<iostream>
+
+1616677718 source:c:\users\amjat\desktop\agglomerativeclustering1\agglomerativeclustering1.cpp
+	"agglomerativeClustering1.h"
+
+1616677718 c:\users\amjat\desktop\agglomerativeclustering1\agglomerativeclustering1.h
+	<string.h>
+	<Eigen/Dense>
+	<cmath>
+	<vector>
+	<iostream>
+
+1616561613 source:c:\users\amjat\desktop\agglomerativeclustering1\main.cpp
+	<iostream>
+	"agglomerativeClustering1.h"
+	<Eigen/Dense>
+	<cmath>
+	<vector>
+	<iostream>
+	<fstream>
+
+1616678045 source:c:\users\amjat\desktop\agglomerativeclustering\main.cpp
+	<iostream>
+	"agglomerativeClustering.h"
+	<Eigen/Dense>
+	<cmath>
+	<vector>
+	<iostream>
+	<fstream>
+
+1616678229 c:\users\amjat\desktop\agglomerativeclustering\agglomerativeclustering.h
+	<string.h>
+	<Eigen/Dense>
+	<cmath>
+	<vector>
+	<iostream>
+
+1616678238 source:c:\users\amjat\desktop\agglomerativeclustering\agglomerativeclustering.cpp
+	"agglomerativeClustering.h"
+
